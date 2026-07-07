@@ -83,6 +83,7 @@ Machine Learning : 43681
 ---
 
 ## Repository Structure
+```
 STEDI-Human-Balance-Analytics/
 │
 ├── sql/
@@ -109,3 +110,4 @@ STEDI-Human-Balance-Analytics/
 |   └── shareWithResearchAsOfDate_blank.png
 │
 └── README.md
+```
